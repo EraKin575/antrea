@@ -1,0 +1,10 @@
+I0215 22:14:23.296693       1 log_file.go:93] Set log file max size to 104857600
+I0215 22:14:23.297232       1 controller.go:124] Starting Antrea Controller (version v2.0.0-dev-a5e27929.dirty)
+I0215 22:14:23.297242       1 controller.go:126] "Github Username" username="EraKin575"
+I0215 22:14:23.297253       1 controller.go:128] "Kubernetes Pod name" podname="antrea-controller-5dd5c48988-rcf9p"
+I0215 22:14:23.297273       1 client.go:89] No kubeconfig file was specified. Falling back to in-cluster config
+I0215 22:14:23.306296       1 selfsignedcert_provider.go:273] "Didn't find the Secret for TLS certificate and key" secret="antrea-controller-tls"
+I0215 22:14:23.306314       1 selfsignedcert_provider.go:235] "Generating self-signed cert"
+I0215 22:14:23.983743       1 selfsignedcert_provider.go:251] "Writing certificate and key to the cert directory"
+I0215 22:14:24.519400       1 prometheus.go:124] Initializing prometheus metrics
+I0215 22:14:24.519609       1 log_file.go:121] Starting log file monitoring. Maximum log file number is 4
